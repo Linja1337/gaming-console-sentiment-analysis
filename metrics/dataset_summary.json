@@ -1,0 +1,67 @@
+{
+  "dataset_info": {
+    "total_reviews": 13587,
+    "gaming_console_focus": "Strict filtering applied for gaming console hardware only",
+    "sentiment_distribution": {
+      "negative": 4483,
+      "neutral": 4104,
+      "positive": 5000
+    },
+    "rating_distribution": {
+      "1.0": 2305,
+      "2.0": 2178,
+      "3.0": 4104,
+      "4.0": 1462,
+      "5.0": 3538
+    },
+    "average_review_length": 1716.3317141385148,
+    "median_review_length": 1080.0
+  },
+  "filtering_criteria": {
+    "primary_keywords": [
+      "playstation",
+      "ps4",
+      "ps5",
+      "ps3",
+      "ps2",
+      "xbox",
+      "xbox one",
+      "xbox series",
+      "xbox 360",
+      "nintendo switch",
+      "nintendo wii",
+      "wii u",
+      "gaming console",
+      "video game console",
+      "game console"
+    ],
+    "hardware_terms_required": [
+      "console",
+      "system",
+      "hardware",
+      "controller",
+      "gamepad",
+      "hdmi",
+      "storage",
+      "hard drive",
+      "ssd",
+      "graphics"
+    ],
+    "exclusion_terms": [
+      "alexa",
+      "echo",
+      "fire tv",
+      "fire stick",
+      "kindle",
+      "tablet",
+      "phone",
+      "mobile",
+      "pc game",
+      "computer game",
+      "board game",
+      "card game",
+      "toy",
+      "action figure"
+    ]
+  }
+}

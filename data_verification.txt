@@ -1,0 +1,462 @@
+GAMING CONSOLE SENTIMENT ANALYSIS - DATA VERIFICATION
+============================================================
+
+Sample of filtered reviews to verify gaming console focus:
+
+SAMPLE 1 (Rating: 1/5)
+----------------------------------------
+ASIN: B00KVR4HEC
+Summary: If you have no life, get it.  If you do, don't.
+Review: This game reeks of being full of it's self.  Like it's the only game that exists for PS4 and like you have nothing else to do with your life except spend countless, unnecessary hours figuring out the stupid, subtle nuances to kill enemies that shouldn't be that hard to kill - because it's not that fun to kill them.  You die so many times that it is not even funny.  You will get tired of this game in an hour tops.  And this is at the very beginning of the game.  To add insult to injury, EVERY tim...
+
+============================================================
+
+SAMPLE 2 (Rating: 1/5)
+----------------------------------------
+ASIN: B009AGXH64
+Summary: Don't buy on Amazon
+Review: As far as the product itself, the Wii U is a great console.
+
+However, be aware that Amazon does NOT sell Nintendo consoles (there was some sort of contractual dispute and Amazon decided to drop those sales). So you will only find them being sold by third parties, which are often intent on jacking up the prices. If you want to pay the normal price stop by a game store or other physical retailer. I'll avoid posting the price or specific names because Amazon might delete reviews that mention such i...
+
+============================================================
+
+SAMPLE 3 (Rating: 1/5)
+----------------------------------------
+ASIN: B00P45U43O
+Summary: it would sound like a jet engine at that point
+Review: I don't get it, I suppose this is a solution looking for a problem. I've never heard my Xbox one fan even hit maximum speed, it would sound like a jet engine at that point. I guess if you like extra dust in your console and having the ability to use it as a pizza tray you could try it, but then you would lose the flat top used for holding your pizza box.
+
+============================================================
+
+SAMPLE 4 (Rating: 1/5)
+----------------------------------------
+ASIN: B000HZFCT2
+Summary: I have yet to get mine to work......
+Review: Using WIndows VISTA......was hoping to use with HALO 2 VIsta....but i've yet to get it to actually function in any way. It just doesn't synch with headset or XBOX 360 Controller.
+
+I may try another one but from reviews....seems its a very common problem if you have other wireless devices.
+
+============================================================
+
+SAMPLE 5 (Rating: 1/5)
+----------------------------------------
+ASIN: B0084380ZM
+Summary: Great TV show gets crappy game!
+Review: As expected, most games based off a hit TV show or movie are terrible and this is no exception. I will admit, I did buy this expecting it to okay but not great but I was in a for surprise when I loaded it up and started playing. First of all, while the graphics are subpar, it would have looked great as a PS2 game, the music and introduction got me thinking I was watching a lost episode of Game of Thrones. You create your character from a selection of rather bland character models and then you ha...
+
+============================================================
+
+SAMPLE 6 (Rating: 1/5)
+----------------------------------------
+ASIN: B001ASJISG
+Summary: Terrible. A disgrace to the franchise.
+Review: I absolutely loved the POP games for Playstation 2. Super fun combination of fighting and acrobatics. Kind of like God Of War meets Spiderman. So naturally I was excited for this new game. Boy was I disappointed.
+
+This game is truly awful. Not only is it boring, tedious and uninspired, but it ruins a really great series that I loved. The fighting system is the worst thing I have ever played. There are sporadic bad guys to fight, maybe one every five minutes, and EVERY ONE OF THEM IS EXACTLY THE ...
+
+============================================================
+
+SAMPLE 7 (Rating: 1/5)
+----------------------------------------
+ASIN: B00D4WTO1M
+Summary: Worst COD ever, the death of the series
+Review: This game was terrible.  I've never wanted my money back so much after buying a game.
+
+Firstly, I play COD primarily for the campaign; I want an immersive story with cool, innovative gadgets and gameplay.  This game had none of that.  I don't know about the disc version, but if you buy the digital download version, the campaign is an OPTIONAL download (3.8GB)!  Someone at Infinity Ward said "only 10% of gamers play the campaign, so we didn't care much about it", to paraphrase.  The campaign was ...
+
+============================================================
+
+SAMPLE 8 (Rating: 1/5)
+----------------------------------------
+ASIN: B00TY9KYKE
+Summary: Get a ps4.
+Review: Do not buy this underpowered console, it barely runs, over half the games are 900P or less and are super blurry on 1080P sets.
+
+Get a PS4 with Bloodborne, it's multiplayer actually works, unlike Master Chief Collection.
+
+============================================================
+
+SAMPLE 9 (Rating: 1/5)
+----------------------------------------
+ASIN: B01GW3OHMK
+Summary: Horrible load times!
+Review: How has no one mentioned the horrible load time in this game?  Each new area you enter has a load time of 4-5 minutes - then another mini load screen once the first is completed.  It feels like the developers did not have a good understanding of the PS4 hardware.  This is not a large game for areas to take so long to load.
+
+============================================================
+
+SAMPLE 10 (Rating: 1/5)
+----------------------------------------
+ASIN: B00005R5PT
+Summary: Eesh! A horrible, horrible game.
+Review: Man alive, is this game bad or what? The graphics are way below par, even if it were on a playstation 1, never mind a Gamecube. The gameplay is pathetic and the camera movements disorientating. What a worthless game!
+
+I totally love Warner's Batman animation and it's cool that they do all the games in this way. Batman: Vengeance could well have turned out great as they got off to a good start by keeping all the gothic visuals and voice actors but they seriously stumbled when it came to playabili...
+
+============================================================
+
+SAMPLE 11 (Rating: 2/5)
+----------------------------------------
+ASIN: B0023CBY4E
+Summary: Great seller. Bad game
+Review: I have no issue with the quality of the game I bought. I bought a used game and it arrived like new. Great price and speedy delivery. The low rating is due to a bad, boring, repetitive game. The Xbox Live Game demo is beautiful. I love the style and graphics. But the full version game is so repetitive and boring. You do the same thing over and over. No learning curve. Nothing amusing. Even the cut scenes become repetitive. I was so hopeful about this game after playing the Demo. I hope they rema...
+
+============================================================
+
+SAMPLE 12 (Rating: 2/5)
+----------------------------------------
+ASIN: B01CP0IPO0
+Summary: A Beautiful Disaster
+Review: Ether One is an interesting title.  While many would call it a "Walking Simulator" these days, it's actually a bit more involved than you would think.  I'd love to give Ether One a glowing recommendation due to the incredibly tough subject the story tackles about dementia and the effect it has on individuals, but I'm unable to recommend this title on the Playstation 4 console as it is completely broken.
+
+As a collector, I am currently attempting to obtain all titles published by Soedesco as I am...
+
+============================================================
+
+SAMPLE 13 (Rating: 2/5)
+----------------------------------------
+ASIN: B00006FWU7
+Summary: Buy the Playstation 2 version, or forget about it
+Review: Since I have always been a fan of the Need for Speed series since its inception on the 3DO system, I bought the XBOX version of this game the day it came out, I thought it would have to be better than the PS2 version, right? Wrong. Despite the obvious lack of PlayStation 2 technical capability, the PS2 version is actually much, much better. The XBOX version plays like a beta of the PS2 version. It has several mistakes I noticed right away (incorrect statistics, cars driving on the left side of t...
+
+============================================================
+
+SAMPLE 14 (Rating: 2/5)
+----------------------------------------
+ASIN: B003HFC22Y
+Summary: Take It From A 17 Year NHL Addict, Don't Bother
+Review: This game has a lot of improvements that sound great but simply don't do much but cause problems.
+
+First of all, the new HUT mode is INCREDIBLY buggy. I've not even bothered to play it because of the reviews from friends, who can't believe EA would release such a product. Not only does it cause your system to freeze often, it also has bizarre game mode problems such as putting two goalies on the ice for your team and only 4 skaters or no goalie at all. There are also problems with the cards you ...
+
+============================================================
+
+SAMPLE 15 (Rating: 2/5)
+----------------------------------------
+ASIN: B0000A0MDV
+Summary: Where did the time go?
+Review: In order to be impressed by the graphics, you need a HDTV.  Without one it's a touched up GT3, jaggies and all.  The city tracks are nice to look at, but the actual race courses(laguna seca) are poorly done, especially considering there are only 6 cars per race.  I didn't want to use the F word(I'm not even getting it), but the side-by-side video between GT4 and Forza's Laguna Seca is an eye-opener.  The PS2 is capable of more than this.
+
+To notice the physics differences, your going to have to ...
+
+============================================================
+
+SAMPLE 16 (Rating: 2/5)
+----------------------------------------
+ASIN: B000EXZALC
+Summary: Poor Quality Cash-In
+Review: Not always is a game based off a movie bad.  There really are some good ones out there.  However, there are some that truly are bad and should be avoided.  X-Men: The Offical Game is that game.  The game overall is pretty poor.  The developers didn't seem to take it seriously.  The game is meant to connect The second X-Men movie with the third one.  Unfortunately, the game just reeks of bad quality.  Perhaps if it had spent more time in development, the game could've been good.  Instead it's rat...
+
+============================================================
+
+SAMPLE 17 (Rating: 2/5)
+----------------------------------------
+ASIN: B000B6MLS2
+Summary: Really annoying, actually...
+Review: I have a really large living room, with my sofa on one side, and all my electronics on the other - 12 feet away. So whenever I play my Xbox or Gamecube, I have to be connected with an extension cord - one for the Xbox, two for the Gamecube. When I considered every wireless option for the two systems, none ever met with my criteria (i.e. controller comfort, fast responsiveness, and the option of having a rumble feature)...
+
+Needless to say, I was more than a little excited at the prospect of the ...
+
+============================================================
+
+SAMPLE 18 (Rating: 2/5)
+----------------------------------------
+ASIN: B005764CWO
+Summary: If I only knew...
+Review: Being a long time Xbox 360 owner (until about 6 months ago) it was difficult to adjust to the smaller size PS3 controller and the analog sticks placement, so it was imperative I found a controller that not only worked well at a decent price BUT was designed to look and feel like a 360 controller. For months I had been researching and comparing third party PS3 controllers and it seemed like I would never find a 2nd controller suitable to fit my needs, well alas I am happy to say I finally found o...
+
+============================================================
+
+SAMPLE 19 (Rating: 2/5)
+----------------------------------------
+ASIN: B00005ML0X
+Summary: I've only played the demo.
+Review: I've been a fan of the survival-horror games since the first resident evil, and i'm a big fan of the series.  Extermination clearly doesn't cut it compaired to R.E. or silent hill 2.  I found the in-game menus annoying, and the enemies bothersome at best.  the graphics were fine, although nothing spectacular. I didn't play enough of it to say how well the plot develops, but it seemed pretty cliched to begin with.  If you're looking for a good survival-horror game for the ps2, go with R.E.: code ...
+
+============================================================
+
+SAMPLE 20 (Rating: 2/5)
+----------------------------------------
+ASIN: B00RYW3FF4
+Summary: Arcade stick this is not
+Review: I bought this for Street fighter series with 6 buttons as laid out.  I thought it would be great to have all the punches/kicks as laid out in arcade.  Well, and this is not the controllers fault, but it just does not work that way with a handheld controller.  Turns out it is hard to navigate 6 buttons with your thumb.  You can try with your fingers but that causes d-pad malfunctions due to the light weight of the controller and you can never quite grip it right to keep it from moving.  Fighting ...
+
+============================================================
+
+SAMPLE 21 (Rating: 3/5)
+----------------------------------------
+ASIN: B000R39GPA
+Summary: Great Game One Time Through, Maybe Twice
+Review: Star Wars; The Force Unleashed is a highly entertaining game.  Personally I enjoy the idea of being a bad guy, but the description that they release to go with the game are spin doctoring at the very best.  But first:  The Pros......
+
+The graphics are amazing on the PS3 and truly the main focus when they made this game.  The cinematics are quite sharp, right down to pores on the face.  The mouths look a little odd to me, especially in the close-ups; not a deal breaker since I am not in to graphi...
+
+============================================================
+
+SAMPLE 22 (Rating: 3/5)
+----------------------------------------
+ASIN: B002DC8GEK
+Summary: Great Co-op, Lackluster Everything Else
+Review: Capcom has combined the gameplay mechanics of Lost Planet 1 and combined them with MMO type instances that can be enjoyed with friends... or strangers who know what they're doing.
+
+Concept:  8/10
+Take the Mechs, Giant Monsters, and Sci-Fi Battles from Lost Planet and create some very polished levels designed around player cooperation.  Throw in a VS Mode and a Training Mode, too.
+
+Story:  8/10
+This game takes place on a thawed out EDN III, which was completely encased in ice in the original game...
+
+============================================================
+
+SAMPLE 23 (Rating: 3/5)
+----------------------------------------
+ASIN: B00H0R9DSG
+Summary: resolutions good, sound is excellent
+Review: one major concern i think the maker should pay attention regarding the clearance on the base of the system, so i placed my ps4 as per instruction(fits good), when i finally placed the disc(game) i have to angle or bend the disc a little bit because it is hitting the end of the PGE base, then when i eject the disc it won't come out totally because of that same issue, i made a few adjustment by putting another cushion(probably 2mm) below the supplied foam base which did the trick, and they could h...
+
+============================================================
+
+SAMPLE 24 (Rating: 3/5)
+----------------------------------------
+ASIN: B000HKMPVA
+Summary: A cross between The Suffering & Black
+Review: I bought this game last week & so far my opinion of it is, well its ok...
+
+The graphics are not that spectacular although the A.I. on the enemies is awesome. I have played many games like this & you can just about predict what the enemy is going to do in each spot if you repeat the game in an area. Not this one. The enemy is unpredictable & you don't know where they will appear from as they flank you. They will flush you out with grenades if they feel you are trying to lure them. This combined w...
+
+============================================================
+
+SAMPLE 25 (Rating: 3/5)
+----------------------------------------
+ASIN: B000ZK695U
+Summary: games
+Review: the game came in great condition. its just the game itself. the most generic story line and low quality graphics for ps3.
+
+============================================================
+
+SAMPLE 26 (Rating: 3/5)
+----------------------------------------
+ASIN: B005LBDOLA
+Summary: Xbox 360 Hard Drive Transfer Cable
+Review: I had to use it for transfer all my records videos and other files to the new Xbox360, but after that this cable is useless.
+
+============================================================
+
+SAMPLE 27 (Rating: 3/5)
+----------------------------------------
+ASIN: B00008DHNZ
+Summary: Low expectations lead to a pretty fun time
+Review: I acquired this game free with the purchase of a new Xbox to replace one that died on me. I wasn't expecting much due to some pretty negative reviews trashing the repetitive gameplay and ho-hum graphics. So I was surprised when I popped it in and after playing for a little bit discovered I was actually having a lot of fun.
+The game mainly involves piloting various modes of transport -- a hover tank, an aerial gunship, a speeder, even a two-legged beast of some sort -- and blasting any enemies th...
+
+============================================================
+
+SAMPLE 28 (Rating: 3/5)
+----------------------------------------
+ASIN: B00GLZQR96
+Summary: played better and played worse
+Review: the graphics are quite better than on the PS3 or Xbox 360, but it's an okay game, that's it;
+for the price the developer should have done better
+
+============================================================
+
+SAMPLE 29 (Rating: 3/5)
+----------------------------------------
+ASIN: B002DGNLFK
+Summary: Jak & Daxter fan
+Review: I have been waiting for this game for quite a while. I was hoping for the game to be on PS3 with great graphics like Ratchet and Clank.  Then when I found out that Naughty Dog was not producing this game I had a feeling the game would not be as good and I was right. The graphics are OK for the PSP, but lacking for the PS2.  The story line is OK. The camera is not very good.  No first person view. I'm not enjoying this game as I did with past games.  I hope Naughty Dog will reclaim J&D and give u...
+
+============================================================
+
+SAMPLE 30 (Rating: 3/5)
+----------------------------------------
+ASIN: B00BG6ZHL4
+Summary: A Good Game,But Far From Great.
+Review: Although not very long,this game is still pretty good and has an interesting concept. Playing as the ghost of a murdered detective and having a spiritual medium helping you to find out who your killer is,made me wanna keep playing to find out what happens at the end. There is very little to no combat in this game. It pretty much is a puzzle based title,where you have to gather clues,to piece together certain incidents,involving certain characters or of the killer. The only combat is,sneaking up ...
+
+============================================================
+
+SAMPLE 31 (Rating: 4/5)
+----------------------------------------
+ASIN: B000WS97QI
+Summary: Bad to the Bone
+Review: Bad Company is turning out to be quite a surprise for me.  I was hooked from the moment I popped it into my PS3.  Great graphics, sound design, physics, and environments are but some of the highlights of this gem.  The dialogue and cut scenes are pretty good.  I enjoy watching the guys play rock paper scissors in the background.  The weapons seem realistic and are quite satisfying.  I do have two gripes about the game though.  First, it has crashed on me 2 or 3 times already.  Second, why is it ...
+
+============================================================
+
+SAMPLE 32 (Rating: 4/5)
+----------------------------------------
+ASIN: B00OAYHIRA
+Summary: Verry impressed.
+Review: I was impressed with this controller at first look, right out of the box, you detect quality. My ps3 had no conflict with this controller, and the buttons are spot on, if you are use to original ps3 controller you'll find that the anolog sticks will seem a bit jerky, but at same time they feel very stable. As far as feel, it is very much like the original ps3, but slightly larger, the handles for instance are larger in diameter, which is a relief for me becouse I have large hands, long fingers. ...
+
+============================================================
+
+SAMPLE 33 (Rating: 4/5)
+----------------------------------------
+ASIN: B0002RQ3ES
+Summary: Here's a fair review -  Don't listen to all the haters
+Review: The Metal Gear Solid series isn't the sort of thing for everyone.  It's not really intended to be a first person shooter, for starters.  Secondly, it's not supposed to be a perfect re-creation of reality.  As it has been mentioned by the creator, Hideo Kojima, time and time again, if MGS was a perfect simulation of reality, the hero of the series, Snake, wouldn't last more than a few minutes in all likelihood.  Third, MGS is still limited by the technical limitations of the technology (which I w...
+
+============================================================
+
+SAMPLE 34 (Rating: 4/5)
+----------------------------------------
+ASIN: B00005NHPI
+Summary: great remote but...
+Review: Why didn't this come with the ps2, like a built-in sensor thingy on the front, i don't think it would be all that hard to do. there are 2 things i don't like about the fact that i have to buy this because of some dvds that don't work; 1. it costs money, and 2. it takes up a slot for a controller and takes up a fairly large percentage of your memory card to install the software. Well i guess thats 3 things, but i dont' really count the first thing as one since its obvious.
+The remote is light and...
+
+============================================================
+
+SAMPLE 35 (Rating: 4/5)
+----------------------------------------
+ASIN: B0015HYPOO
+Summary: Fantastic Product, must have for racing games!
+Review: This is a well made sturdy feeling racing wheel made by Logitech.  The wheel is approximately 11 inches with a rubber overmold rim and has 900 degrees of rotation.  The steering wheel has excellent force feedback and really lets you feel every bump, crash, and turn you make.  It has a dial (the red thing on the wheel) that allows you to adjust your brakes, traction control, and damper performance on the fly.
+
+The wheel connects to the PS3's usb port and requires you to plug it in to a wall outle...
+
+============================================================
+
+SAMPLE 36 (Rating: 4/5)
+----------------------------------------
+ASIN: B00005YTYJ
+Summary: The game that lets you do what you've always secretly wanted
+Review: Grand Theft Auto III (GTA3) is the PC Version of one of the most successful games ever released for the Sony Playstation 2.  GTA3 begins with a small introduction about your character's botched robbery and his subsequent escape from prison.  After crawling out of a burning prison transport, your character and another inmate steal a car and hook up with your partner's crime friends. From there, your character is free to pursue a prison-free life of crime.
+I never played the previous GTAs for the ...
+
+============================================================
+
+SAMPLE 37 (Rating: 4/5)
+----------------------------------------
+ASIN: B000WON6XW
+Summary: A Modern Classic? No. Good Fun? Yes.
+Review: I have played a lot of games in the past 20 years and this is one of the few I've picked up and played through the entire thing just waiting for what was coming. The anticipation of what's going to happen keeps you playing. I kept waiting for it to flash forward to modern times and for the assassin's skill to be unleashed there. I won't ruin the game for you but I was a bit disappointed at the ending.
+
+This is one of the few modern games I've played to the end, with most being shelved after a fe...
+
+============================================================
+
+SAMPLE 38 (Rating: 4/5)
+----------------------------------------
+ASIN: B000M17AVO
+Summary: Makes watching movies on your ps3 that much easier
+Review: Makes watching movies on your ps3 that much easier. Some people have mastered using the controller functions. Im a little old fashioned and prefer a remote. Works great with your other sony devices too.
+
+============================================================
+
+SAMPLE 39 (Rating: 4/5)
+----------------------------------------
+ASIN: B00432O50W
+Summary: A real trip
+Review: Shadows of the Damned is one of the weirdest, funniest, and most wildly creative shooters to release on the PS3. Conceived by the famed madman of Japanese video game development, Goichi Suda (aka Suda51), Shadows of the Damned is unlike anything else out there, and is all the better for it. It isn't without its flaws, but with a combination of creativity and fun like this, the flaws don't matter.
+
+You play as a Mexican demon hunter named Garcia Hotspur, who's girlfriend Paula is kidnapped by the...
+
+============================================================
+
+SAMPLE 40 (Rating: 4/5)
+----------------------------------------
+ASIN: B000IFRPL4
+Summary: GT Pro doesn't have to go...
+Review: To extremes to make my family happy...
+
+Sure the graphics are not PS3 crisp and this is a repackage of the game in general rushed for launch but we are enjoying it.
+
+I have seen a number of negative reviews about this game and yes it does have it's issues.  Not being able to save anymore than one person's data is a pain (ok maybe I missed something) if you are trying multiplayer.
+
+In spite of it's rushed to market shortcomings the game has kept us entertained.  The addition of the racing wheel w...
+
+============================================================
+
+SAMPLE 41 (Rating: 5/5)
+----------------------------------------
+ASIN: B000MKA60W
+Summary: My absolute favorite game on Xbox so far!
+Review: This is really, really a great game.
+
+Incredibly engaging, beautiful graphics, and great gameplay.  The voice over work is stellar...probably the creepiest game I've played so far on the Xbox.  When I hear the voices, but don't know where they are coming from, I almost have to stop the game to collect myself because I know what's coming!
+
+The storyline is the most original on any game I've played....nothing else out on any other console like it.  I applaud what must be a truly twisted mind that ...
+
+============================================================
+
+SAMPLE 42 (Rating: 5/5)
+----------------------------------------
+ASIN: B00269DX5W
+Summary: Best Game Yet for the PS3
+Review: This game is AMAZING. It has an amazing story and even more Amazing locations. The graphics are the best I have seen so far for the PS3 and the gameplay is gripping. I found it hard to put down the controller. Though it only took me a week to beat this game. I played it for about 50 hours. That game play was only beaten by&nbsp;<a data-hook="product-link-linked" class="a-link-normal" href="/Fallout-3-Game-of-The-Year-Edition/dp/B002BXKJ6O/ref=cm_cr_arp_d_rvw_txt?ie=UTF8">Fallout 3: Game of The Y...
+
+============================================================
+
+SAMPLE 43 (Rating: 5/5)
+----------------------------------------
+ASIN: B00004W4WH
+Summary: You gotta get this one
+Review: This game is awesome. It runs smoothly with great graphics. It will keep you playing untill u beat it. If you have the money go out and get this one  with your PS2
+
+============================================================
+
+SAMPLE 44 (Rating: 5/5)
+----------------------------------------
+ASIN: B00KWEHBAG
+Summary: This game is Amazing! Battles are amazing! Awesome game!
+Review: First off, I never played a Dynasty Warriors game in my life, but this game is really a great game. I know that some people said that the game is repetitive and IGN gave the game a 7.0 out of 10 because the game is repetitive and said it was too easy. But believe me, that couldn't be farther from the truth! The game starts of easy and gets much harder. If you die, you can restart from checkpoints and the game is a little repetitive, but it doesn't matter because the fun is there and gets better ...
+
+============================================================
+
+SAMPLE 45 (Rating: 5/5)
+----------------------------------------
+ASIN: B000HTUY4Q
+Summary: the power of playstation 2 in your pocket, the leader in portable gaming
+Review: This brings DVD quality video, and playstation two graphics/gaming to the palm of your hands. The price is slowly coming down on these, and now is as good of time as any to buy this system. The title selectin continues to grow (except for the movie selection, dwindling, but still coming), and the games are as child frindly to mature as you want. This also plays mp3's, and easy usb connection to other systems. With a big screen and nicely spaced controls, good playability, it is the leader in the...
+
+============================================================
+
+SAMPLE 46 (Rating: 5/5)
+----------------------------------------
+ASIN: B000LFJNF2
+Summary: Very useful, and will end up saving Wii users money
+Review: I've had these Wii Remote chargers for quite awhile, and I have to say chances are I've already saved myself quite a bit of money I would have spent on batteries throughout my hours and hours of playing. One of my biggest gripes about the Wii Remotes was that they are battery-powered; wireless controllers are great, but consoles and their accompanying games are expensive enough as it is....I want my spending to be done with once I've actually got the console, the games and the controllers in my ...
+
+============================================================
+
+SAMPLE 47 (Rating: 5/5)
+----------------------------------------
+ASIN: B009AGXH64
+Summary: What do U know about the Wii U?
+Review: If you are reading this then you are curious what this is all about. First off, this console comes with NintendoLand (which is equivalent to the Wii Play for the Wii). The console includes: NintendoLand game, ac adapter for console and gamepad, sensor bar (same as Wii), charging dock for gamepad, stand for Wii U console, and HDMI cable (a first for Nintendo). The gamepad is light and appears to be a cross between DS, PSP, and IPad (features a screen and controls on it).
+
+This console supports al...
+
+============================================================
+
+SAMPLE 48 (Rating: 5/5)
+----------------------------------------
+ASIN: B000F3AACA
+Summary: This is so worth the money
+Review: I had all of these games on the original Playstation so I didn't think I needed this collection. But after playing it on the PS2, I realize just how  great it is. The graphics are arcade perfect. You see things you don't see on the PS1. There are no load times between matches. It's just a much better experience. This and Anniversary Collection are must haves for Street Fighter fans.
+
+============================================================
+
+SAMPLE 49 (Rating: 5/5)
+----------------------------------------
+ASIN: B000QY9C90
+Summary: One of the best co-op games of all time!
+Review: If you liked co-op in the Doom series, you're going to love this game. This is a zombie fan must have! Play the demo before buying as this type of gameplay may not be for you.
+ There are 2 games I play constantly online with friends. Left 4 Dead and Rainbow Six Vegas 2. This game is very fast paced and you will take on massive swarms of running zombies as you play. Game control and graphics are great! On Xbox Live the game never seems to suffer from lag and I love the "take a break" feature that...
+
+============================================================
+
+SAMPLE 50 (Rating: 5/5)
+----------------------------------------
+ASIN: B00499A3P0
+Summary: Be Very Afraid
+Review: But try not to climb all the way up on the videogame fear scale because the upcoming Dark Souls (to be released toward the end of 2011) promises to be a lot more intense. Anyone who is into action RPGs and hasn't played DS yet should use the next few months to remedy the situation and... get hurt a little. Or a lot.
+
+INTRODUCTION - SETTING THE MOOD
+
+Hey, I apologize in advance for the super-long review but this is an immense game so maybe it deserves a long review. I'll see if I can abbreviate i...
+
+============================================================
+
